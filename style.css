@@ -1,0 +1,8 @@
+body {
+	background-image: url('NewLogo.png') ;
+	background-size: 100% auto;
+	color: white;
+	background-attachment:fixed;
+	width: 75%;
+	margin: 0 auto;
+}
