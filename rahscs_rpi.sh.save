@@ -1,0 +1,24 @@
+sudo apt-get update
+sudo apt-get upgradei -y
+
+sudo apt-get install vim
+sudo apt-get remove vim.tiny vi ed --purge
+
+sudo apt-get install gedit
+sudo apt-get remove leafpad --purge
+
+sudo apt-get remove python-games ==purge
+sudo apt-get remove minecraft-pi u
+sudo apt-get remove libreoffice
+sudo apt-get remove claws-mail
+
+sudo apt-get remove wolfram
+sudo apt-get remove mathematica
+
+sudo apt-get remove bluej
+sudo apt-get remove geany
+sudo apt-get remove greenfoot
+sudo apt-get remove nodered
+sudo apt-get remove scratch
+sudo apt-get remove sonic-pi
+sudo apt-get remove idle
